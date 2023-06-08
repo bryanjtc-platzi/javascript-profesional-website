@@ -11,7 +11,7 @@
         "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
     },
     "devDependencies": {
-        "parcel": "2.9.1",
+        "parcel": "2.9.2",
         "typescript": "5.1.3"
     },
     "browserslist": [
